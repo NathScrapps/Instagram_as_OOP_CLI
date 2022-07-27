@@ -1,0 +1,15 @@
+{
+    "name": "nathscrapps/phppoo",
+    "autoload": {
+        "psr-4": {
+            "Nathscrapps\\Phppoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natanael Corona",
+            "email": "jc4782071@gmail.com"
+        }
+    ],
+    "require": {}
+}
